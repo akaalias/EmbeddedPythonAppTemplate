@@ -15,6 +15,7 @@
 		5607721429F1416D00A07F70 /* Python.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5607721229F1416D00A07F70 /* Python.xcframework */; };
 		5607721729F1419000A07F70 /* PythonKit in Frameworks */ = {isa = PBXBuildFile; productRef = 5607721629F1419000A07F70 /* PythonKit */; };
 		5607721A29F141AB00A07F70 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5607721929F141AB00A07F70 /* SystemConfiguration.framework */; };
+		5607721E29F1432700A07F70 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 5607721D29F1432700A07F70 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		5607721229F1416D00A07F70 /* Python.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Python.xcframework; sourceTree = "<group>"; };
 		5607721929F141AB00A07F70 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		5607721B29F1420800A07F70 /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; name = module.modulemap; path = "Python.xcframework/macos-arm64_x86_64/Headers/module.modulemap"; sourceTree = SOURCE_ROOT; };
+		5607721D29F1432700A07F70 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +49,7 @@
 		560771F629F1414700A07F70 = {
 			isa = PBXGroup;
 			children = (
+				5607721D29F1432700A07F70 /* README.md */,
 				5607721129F1416D00A07F70 /* python-stdlib */,
 				5607721229F1416D00A07F70 /* Python.xcframework */,
 				5607720129F1414800A07F70 /* EmbeddedPythonSpike */,
@@ -159,6 +162,7 @@
 			files = (
 				5607720A29F1414800A07F70 /* Preview Assets.xcassets in Resources */,
 				5607720729F1414800A07F70 /* Assets.xcassets in Resources */,
+				5607721E29F1432700A07F70 /* README.md in Resources */,
 				5607721329F1416D00A07F70 /* python-stdlib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
