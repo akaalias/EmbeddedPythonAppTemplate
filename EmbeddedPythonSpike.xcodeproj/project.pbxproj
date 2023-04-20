@@ -30,6 +30,8 @@
 		5607721929F141AB00A07F70 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		5607721B29F1420800A07F70 /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; name = module.modulemap; path = "Python.xcframework/macos-arm64_x86_64/Headers/module.modulemap"; sourceTree = SOURCE_ROOT; };
 		5607721D29F1432700A07F70 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		5607721F29F1454B00A07F70 /* ready.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ready.png; sourceTree = "<group>"; };
+		5607722029F1454B00A07F70 /* upload-files.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "upload-files.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +52,8 @@
 			isa = PBXGroup;
 			children = (
 				5607721D29F1432700A07F70 /* README.md */,
+				5607721F29F1454B00A07F70 /* ready.png */,
+				5607722029F1454B00A07F70 /* upload-files.png */,
 				5607721129F1416D00A07F70 /* python-stdlib */,
 				5607721229F1416D00A07F70 /* Python.xcframework */,
 				5607720129F1414800A07F70 /* EmbeddedPythonSpike */,

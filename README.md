@@ -21,3 +21,11 @@ Python Version: 3.11
 Python Encoding: UTF-8
 Python Path: ['/Users/$HOME/Library/Developer/Xcode/DerivedData/EmbeddedPythonSpike-ehqmlmwnoppyokdrvctjjjowcsrq/Build/Products/Debug/EmbeddedPythonSpike.app/Contents/Resources/python-stdlib', '/Users/$HOME/Library/Developer/Xcode/DerivedData/EmbeddedPythonSpike-ehqmlmwnoppyokdrvctjjjowcsrq/Build/Products/Debug/EmbeddedPythonSpike.app/Contents/Resources/python-stdlib/lib-dynload', '/Users/$HOME/Library/Developer/Xcode/DerivedData/EmbeddedPythonSpike-ehqmlmwnoppyokdrvctjjjowcsrq/Build/Products/Debug/EmbeddedPythonSpike.app/Contents/Resources/python-stdlib/lib/python311.zip', '/Users/$HOME/Library/Developer/Xcode/DerivedData/EmbeddedPythonSpike-ehqmlmwnoppyokdrvctjjjowcsrq/Build/Products/Debug/EmbeddedPythonSpike.app/Contents/Resources/python-stdlib/lib/python3.11', '/Users/$HOME/Library/Developer/Xcode/DerivedData/EmbeddedPythonSpike-ehqmlmwnoppyokdrvctjjjowcsrq/Build/Products/Debug/EmbeddedPythonSpike.app/Contents/Resources/python-stdlib/lib/python3.11/lib-dynload']
 ```
+
+## Archiving and Notarization
+
+- Product > Archive > Distribute App > 'Distribute as developer'
+- Signing files (takes about a minute)
+- Upload to Apple
+- Waiting...
+- Ready to distribute!
