@@ -29,3 +29,7 @@ Python Path: ['/Users/$HOME/Library/Developer/Xcode/DerivedData/EmbeddedPythonSp
 - Upload to Apple
 - Waiting...
 - Ready to distribute!
+
+![Upload](upload-files.png)
+
+![Ready](ready.png)
